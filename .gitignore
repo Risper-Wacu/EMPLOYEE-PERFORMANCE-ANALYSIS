@@ -1,0 +1,21 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Data files (optional - only if you don't want data on GitHub)
+*.csv
+
+# macOS system files
+.DS_Store
+
+# Environment variables
+.env

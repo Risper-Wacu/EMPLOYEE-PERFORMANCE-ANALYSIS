@@ -335,10 +335,8 @@ elif page == "🔮 Predict":
         })
         st.dataframe(conf_df, use_container_width=True, hide_index=True)
 
+#model insights.
 
-# ══════════════════════════════════════════════════════════════════════════════
-# PAGE 3 — MODEL INSIGHTS
-# ══════════════════════════════════════════════════════════════════════════════
 elif page == "📈 Model Insights":
     import matplotlib.pyplot as plt
 

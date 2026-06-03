@@ -75,9 +75,8 @@ Random Forest with GridSearchCV achieved **93.33% accuracy** and a **macro F1-sc
 This project successfully identified the root causes of performance decline at INX Future Inc. The drop in performance is not a company-wide problem — it is concentrated in Finance and Sales and is driven by morale and recognition issues rather than skill gaps. Targeted improvements to the work environment, salary structures, and promotion pathways in these two departments can reverse the trend while maintaining INX's reputation as a top employer.
 
 ## Getting Started
-[```bash
-git clone https://github.com/Risper-Wacu/EMPLOYEE-PERFORMANCE-ANALYSIS.git](https://employee-performance-analysis-7598.onrender.com)
-```
+(https://employee-performance-analysis-7598.onrender.com)
+
 
 
 
